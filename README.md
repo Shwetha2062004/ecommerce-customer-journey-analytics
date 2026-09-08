@@ -86,7 +86,7 @@ Built an interactive Power BI dashboard to visualize:
 - Session distribution
 - Device-wise users and conversion
 
-![E-Commerce Customer Journey Dashboard](ecommerce-customer-journey-analytics.png)
+![E-Commerce Customer Journey Dashboard](E-Commerce%20Customer%20Journey%20Dashboard.png)
 
 ## Business Insights
 
